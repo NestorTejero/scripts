@@ -2,8 +2,13 @@
 Some tools for text processing
 
 ## wc.sh
-
 Personalized "wc" tool to show data more clearly. One item per line, numbers have thousand separator.
+
+### Installation
+Add the following line into your ~/.bashrc file:
+````
+alias wc="/path/to/wc.sh"
+````
 
 ### Test
 ````
