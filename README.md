@@ -10,6 +10,12 @@ Add the following line into your ~/.bashrc file:
 alias wc="/path/to/wc.sh"
 ````
 
+### Usage
+
+````
+wc <file1> <file2> ...
+````
+
 ### Test
 ````
 $ seq 200 > a
